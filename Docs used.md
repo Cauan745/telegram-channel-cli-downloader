@@ -1,0 +1,7 @@
+- Fast Telethon: https://gist.github.com/painor/7e74de80ae0c819d3e9abcf9989a8dd6
+- Getting channeld id: https://stackoverflow.com/a/56546442
+    - Basically right click on any message on the channel and copy link, get the numbers between the / (not the last one) and add -100 at the start of it.
+- Telethon documentation:
+    - https://docs.telethon.dev/en/stable/basic/quick-start.html
+    - https://docs.telethon.dev/en/stable/basic/installation.html
+    - https://docs.telethon.dev/en/stable/modules/client.html#telethon.client.messages.MessageMethods.iter_messages
